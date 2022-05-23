@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test of winning O combinations" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-20T20:19:42" hostname="DESKTOP-54J2UDS" time="0.018">
+  <properties/>
+  <testcase name="testWinningCombinationHorizontalSecondLineOWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawO" time="0.002"/>
+  <testcase name="testWinningCombinationVerticalThirdLineOWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawO" time="0.002"/>
+  <testcase name="testWinningCombinationHorizontalFirstLineOWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawO" time="0.001"/>
+  <testcase name="testWinningCombinationVerticalSecondLineOWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawO" time="0.001"/>
+  <testcase name="testWinningCombinationDiagonalLeftOLineWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawO" time="0.002"/>
+  <testcase name="testWinningCombinationVerticalFirstLineOWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawO" time="0.0"/>
+  <testcase name="testWinningCombinationDiagonalRightOLineWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawO" time="0.001"/>
+  <testcase name="testWinningCombinationHorizontalThirdLineOWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawO" time="0.001"/>
+  <system-out><![CDATA[Preparing to execute test #9
+Preparing to execute test #10
+Preparing to execute test #11
+Preparing to execute test #12
+Preparing to execute test #13
+Preparing to execute test #14
+Preparing to execute test #15
+Preparing to execute test #16
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

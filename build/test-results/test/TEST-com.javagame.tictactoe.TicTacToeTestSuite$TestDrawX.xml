@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test of winning X combinations" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-20T20:19:42" hostname="DESKTOP-54J2UDS" time="0.03">
+  <properties/>
+  <testcase name="testWinningCombinationHorizontalSecondLineXWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawX" time="0.015"/>
+  <testcase name="testWinningCombinationVerticalThirdLineXWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawX" time="0.001"/>
+  <testcase name="testWinningCombinationDiagonalLeftXLineWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawX" time="0.001"/>
+  <testcase name="testWinningCombinationHorizontalFirstLineXWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawX" time="0.0"/>
+  <testcase name="testWinningCombinationVerticalSecondLineXWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawX" time="0.002"/>
+  <testcase name="testWinningCombinationDiagonalRightXLineWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawX" time="0.001"/>
+  <testcase name="testWinningCombinationVerticalFirstLineXWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawX" time="0.002"/>
+  <testcase name="testWinningCombinationHorizontalThirdLineXWin()" classname="com.javagame.tictactoe.TicTacToeTestSuite$TestDrawX" time="0.001"/>
+  <system-out><![CDATA[Preparing to execute test #1
+Preparing to execute test #2
+Preparing to execute test #3
+Preparing to execute test #4
+Preparing to execute test #5
+Preparing to execute test #6
+Preparing to execute test #7
+Preparing to execute test #8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
